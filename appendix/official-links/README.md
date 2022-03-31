@@ -10,7 +10,7 @@
 
 **Twitter**<br />[<small>https://twitter.com/the_microverse</small>](https://twitter.com/the_microverse 'https://twitter.com/the_microverse')
 
-**Discord:**<br />[<small>https://discord.gg/YDjAQtMVrC</small>](https://discord.gg/YDjAQtMVrC 'discord.gg/YDjAQtMVrC')
+**Discord**<br />[<small>https://discord.gg/YDjAQtMVrC</small>](https://discord.gg/YDjAQtMVrC 'discord.gg/YDjAQtMVrC')
 
 
 ## The Microverse Token Links

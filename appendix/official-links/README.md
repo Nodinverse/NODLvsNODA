@@ -50,7 +50,7 @@
 
 ## The Microverse Liquidity Pools
 
-### $NODA / $NODL Liquidity Pool
+### $NODL / $NODA Liquidity Pool
 
 ![NODL and NODA Liquidity Pools](https://user-images.githubusercontent.com/101845365/161142606-c0e0ad5c-3d67-4135-9fa8-2fc33451df2f.jpg)
 

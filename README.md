@@ -1,6 +1,4 @@
----
-description: Introduction
----
+![TheMicrovers-GameManual-Title](https://user-images.githubusercontent.com/101845365/161152257-fa6e3e5d-ebf6-4950-92e9-1ffc862c9d5c.png)
 
 # The Microverse: $NODL vs $NODA \[a Game of Cyclical Probabilities]
 

@@ -12,7 +12,7 @@
 
 Buy: Set Slippage to >=**2.111%**
 
-Sell Set Slippage to >=**12.111% (Temporary)**
+Sell Set Slippage to >=**7.111%**&#x20;
 
 
 

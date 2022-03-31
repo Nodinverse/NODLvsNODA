@@ -9,5 +9,5 @@ $NODL Levels boost rewards when claiming $NODA node tokens from your node.
 * 21m $NODL = 1.5% Multiplier (was 1%) -> 1.015x
 * 42m $NODL = 3% Multiplier (was 1.2%)
 * 89m $NODL = 4% Multiplier (was 1.4%)
-* 144m $NODL = 6% Multiplier (was 1.8%)
-* 377m $NODL = 11% Multiplier (was 3%) -> 1.11x
+* 144m $NODL = 13% Multiplier (was 1.8%)
+* 377m $NODL = 21% Multiplier (was 3%) -> 1.11x

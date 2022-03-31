@@ -6,9 +6,9 @@
 
 
 ## The Microverse Online
-**Website:**<br />[<small>https://nodn.netlify.app</small>](https://nodn.netlify.app 'https://nodn.netlify.app')
+**Website**<br />[<small>https://nodn.netlify.app</small>](https://nodn.netlify.app 'https://nodn.netlify.app')
 
-**Twitter:**<br />[<small>https://twitter.com/the_microverse</small>](https://twitter.com/the_microverse 'https://twitter.com/the_microverse')
+**Twitter**<br />[<small>https://twitter.com/the_microverse</small>](https://twitter.com/the_microverse 'https://twitter.com/the_microverse')
 
 **Discord:**<br />[<small>https://discord.gg/YDjAQtMVrC</small>](https://discord.gg/YDjAQtMVrC 'discord.gg/YDjAQtMVrC')
 
@@ -20,6 +20,8 @@
 ### $NODA — Nodes as a Service (NaaS)
 
 ![$NODA Nodes as a Service](https://user-images.githubusercontent.com/101845365/161140916-72f91522-17ee-4b1a-8434-4605873b66d2.jpg)
+
+**$NODA Website — Nodes**<br />[<small>https://nodn.netlify.app</small>](https://nodn.netlify.app 'https://nodn.netlify.app')
 
 <small>**$NODA Contract**<br />0x345e29bcedf39dc2f98f642309c3cde2b53d164e</small>
 
@@ -37,6 +39,8 @@
 ### $NODL — Node Index
 
 ![$NODL Node Index](https://user-images.githubusercontent.com/101845365/161140919-5c7160dc-9c94-4934-a59a-9dc0b0978906.jpg)
+
+**$NODL Website — Index**<br />[<small>https://nodl.netlify.app</small>](https://nodl.netlify.app 'https://nodl.netlify.app')
 
 <small>**$NODL Contract**<br />0x6033f3d6C653c9870A7475844663C48dDCBb5d62</small>
 

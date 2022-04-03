@@ -11,20 +11,29 @@ description: Brand Assets for $NODL, $NODA, and The Microverse 🎨
 ## Logos
 
 ## Icons
+
+PNG and SVG versions have a transparent background, while JPG icons have a white background. Click to view, or _right-click_ and _save as_ to use.
+
 {% tabs %} 
 {% tab title="$NODL" %}
 
-![Blue NODL 1200x1200px PNG](../.gitbook/assets/nodl-icon.png "Download icon") ![Blue NODL 1200x1200px JPG](../.gitbook/assets/nodl-icon.jpg "Download icon") ![Blue NODL 1200x1200px SVG](../.gitbook/assets/nodl-icon.svg "Download icon")
+![Blue NODL Logo 1200x1200px PNG](../.gitbook/assets/nodl-icon.png "Download icon") ![Blue NODL 1200x1200px JPG](../.gitbook/assets/nodl-icon.jpg "Download icon") ![Blue NODL Logo 1200x1200px SVG](../.gitbook/assets/nodl-icon.svg "Download icon")
+
+![Blue NODL Joystick 1200x1200px PNG](../.gitbook/assets/nodl-icon-joystick.png "Download icon") ![Blue NODL Joystick 1200x1200px JPG](../.gitbook/assets/nodl-icon-joystick.jpg "Download icon") ![Blue NODL Joystick 1200x1200px SVG](../.gitbook/assets/nodl-icon-joystick.svg "Download icon")
 
 {% endtab %}
 {% tab title="$NODA" %}
 
 ![Pink NODA 1200x1200px PNG](../.gitbook/assets/noda-icon.png "Download icon") ![Pink NODA 1200x1200px JPG](../.gitbook/assets/noda-icon.jpg "Download icon") ![Pink NODA 1200x1200px SVG](../.gitbook/assets/noda-icon.svg "Download icon")
 
+![Pink NODA Joystick 1200x1200px PNG](../.gitbook/assets/noda-icon-joystick.png "Download icon") ![Pink NODA Joystick 1200x1200px JPG](../.gitbook/assets/noda-icon-joystick.jpg "Download icon") ![Pink NODA Joystick 1200x1200px SVG](../.gitbook/assets/noda-icon-joystick.svg "Download icon")
+
 {% endtab %}
 {% tab title="NODN" %}
 
 ![Black NODN 1200x1200px PNG](../.gitbook/assets/nodn-icon.png "Download icon") ![Black NODN 1200x1200px JPG](../.gitbook/assets/nodn-icon.jpg "Download icon") ![Black NODN 1200x1200px SVG](../.gitbook/assets/nodn-icon.svg "Download icon")
+
+![Black NODN Joystick 1200x1200px PNG](../.gitbook/assets/nodn-icon-joystick.png "Download icon") ![Black NODN Joystick 1200x1200px JPG](../.gitbook/assets/nodn-icon-joystick.jpg "Download icon") ![Black NODN Joystick 1200x1200px SVG](../.gitbook/assets/nodn-icon-joystick.svg "Download icon")
 
 {% endtab %}
 {% endtabs %}

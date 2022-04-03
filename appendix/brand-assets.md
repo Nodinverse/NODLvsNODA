@@ -14,24 +14,23 @@ description: Brand Assets for $NODL, $NODA, and The Microverse 🎨
 {% tabs %} 
 {% tab title="$NODL" %}
 
-Preview | PNG<br>Transparent | JPG<br>White | SVG<br>Transparent 
-| :---: | :---: | :---: | :---:
-![Blue ten sided 2d geometric shape.](../.gitbook/assets/nodl-icon.png) | [NODL Icon<br>1200x1200<br>JPG](../.gitbook/assets/nodl-icon.jpg) | [NODL Icon<br>1200x1200<br>PNG](../.gitbook/assets/nodl-icon.png) | [NODL Icon <br>1200x1200<br>SVG](../.gitbook/assets/nodl-icon.svg)
+PNG<br>Transparent | JPG<br>White | SVG<br>Transparent 
+:---: | :---: | :---:
+<a href="" target="_blank"><img src="../.gitbook/assets/nodl-icon.png" alt="" width="180" height="180" /></a> | <a href="" target="_blank"><img src="../.gitbook/assets/nodl-icon.jpg" alt="" width="180" height="180" /></a> | <a href="" target="_blank"><img src="../.gitbook/assets/nodl-icon.svg" alt="" width="180" height="180" /></a>
 
 {% endtab %}
 {% tab title="$NODA" %}
 
-
-Preview | PNG<br>Transparent | JPG<br>White | SVG<br>Transparent 
-| :---: | :---: | :---: | :---:
-![Pink ten sided 2d geometric shape.](../.gitbook/assets/noda-icon.png) | [NODA Icon<br>1200x1200<br>JPG](../.gitbook/assets/noda-icon.jpg) | [NODL Icon<br>1200x1200<br>PNG](../.gitbook/assets/noda-icon.png) | [NODA Icon <br>1200x1200<br>SVG](../.gitbook/assets/nodl-icon.svg)
+PNG<br>Transparent | JPG<br>White | SVG<br>Transparent 
+:---: | :---: | :---:
+<a href="" target="_blank"><img src="../.gitbook/assets/noda-icon.png" alt="" width="180" height="180" /></a> | <a href="" target="_blank"><img src="../.gitbook/assets/noda-icon.jpg" alt="" width="180" height="180" /></a> | <a href="" target="_blank"><img src="../.gitbook/assets/noda-icon.svg" alt="" width="180" height="180" /></a>
 
 {% endtab %}
 {% tab title="NODN" %}
 
-Preview | PNG<br>Transparent | JPG<br>White | SVG<br>Transparent 
-| :---: | :---: | :---: | :---:
-![Black ten sided 2d geometric shape.](../.gitbook/assets/nodn-icon.png) | [NODN Icon<br>1200x1200<br>JPG](../.gitbook/assets/nodn-icon.jpg) | [NODN Icon<br>1200x1200<br>PNG](../.gitbook/assets/nodn-icon.png) | [NODN Icon <br>1200x1200<br>SVG](../.gitbook/assets/nodn-icon.svg)
+PNG<br>Transparent | JPG<br>White | SVG<br>Transparent 
+:---: | :---: | :---:
+<a href="" target="_blank"><img src="../.gitbook/assets/nodn-icon.png" alt="" width="180" height="180" /></a> | <a href="" target="_blank"><img src="../.gitbook/assets/nodn-icon.jpg" alt="" width="180" height="180" /></a> | <a href="" target="_blank"><img src="../.gitbook/assets/nodn-icon.svg" alt="" width="180" height="180" /></a>
 
 {% endtab %}
 {% endtabs %}

@@ -14,31 +14,17 @@ description: Brand Assets for $NODL, $NODA, and The Microverse 🎨
 {% tabs %} 
 {% tab title="$NODL" %}
 
-{% image-block %} 
-{% image %}
+![Blue NODL 1200x1200px PNG](../.gitbook/assets/nodl-icon.png "Download icon") ![Blue NODL 1200x1200px JPG](../.gitbook/assets/nodl-icon.jpg "Download icon") ![Blue NODL 1200x1200px SVG](../.gitbook/assets/nodl-icon.svg "Download icon")
 
-![../.gitbook/assets/nodl-icon.png](../.gitbook/assets/nodl-icon.png "PNG 1200x1200px Transparent Background")
-
-{% endimage %} 
-{% image %}
-
-![../.gitbook/assets/nodl-icon.jpg](../.gitbook/assets/nodl-icon.jpg "JPG 1200x1200px White Background")
-
-{% endimage %} 
-{% image %}
-
-![../.gitbook/assets/nodl-icon.svg](../.gitbook/assets/nodl-icon.svg "SVG 1200x1200px Transparent Background")
-
-{% endimage %} 
 {% endtab %}
 {% tab title="$NODA" %}
 
-<a href="" target="_blank"><img src="../.gitbook/assets/noda-icon.png" alt="" width="180" height="180" /></a> <a href="" target="_blank"><img src="../.gitbook/assets/noda-icon.jpg" alt="" width="180" height="180" /></a> <a href="" target="_blank"><img src="../.gitbook/assets/noda-icon.svg" alt="" width="180" height="180" /></a>
+![Pink NODA 1200x1200px PNG](../.gitbook/assets/noda-icon.png "Download icon") ![Pink NODA 1200x1200px JPG](../.gitbook/assets/noda-icon.jpg "Download icon") ![Pink NODA 1200x1200px SVG](../.gitbook/assets/noda-icon.svg "Download icon")
 
 {% endtab %}
 {% tab title="NODN" %}
 
-<a href="" target="_blank"><img src="../.gitbook/assets/nodn-icon.png" alt="" width="180" height="180" /></a> <a href="" target="_blank"><img src="../.gitbook/assets/nodn-icon.jpg" alt="" width="180" height="180" /></a> <a href="" target="_blank"><img src="../.gitbook/assets/nodn-icon.svg" alt="" width="180" height="180" /></a>
+![Black NODN 1200x1200px PNG](../.gitbook/assets/nodn-icon.png "Download icon") ![Black NODN 1200x1200px JPG](../.gitbook/assets/nodn-icon.jpg "Download icon") ![Black NODN 1200x1200px SVG](../.gitbook/assets/nodn-icon.svg "Download icon")
 
 {% endtab %}
 {% endtabs %}

@@ -11,6 +11,12 @@ description: Brand Assets for $NODL, $NODA, and The Microverse 🎨
 ## Logos
 
 ## Icons
+Width / File Type | $NODL | $NODA | NODN
+--- | --- | --- | ---
+1200 x 1200px PNG Transparent Background | ![Blue ten sided 2d geometric shape.](../.gitbook/assets/nodl-icon.png) | ![Pink ten sided 2d geometric shape.](../.gitbook/assets/noda-icon.png) | ![Black ten sided 2d geometric shape.](../.gitbook/assets/nodn-icon.png)
+1200 x 1200px JPG White Background | ![Blue ten sided 2d geometric shape.](../.gitbook/assets/nodl-icon.jpg) | ![Pink ten sided 2d geometric shape.](../.gitbook/assets/noda-icon.jpg) | ![Black ten sided 2d geometric shape.](../.gitbook/assets/nodn-icon.jpg)
+SVG Transparent Background | ![Blue ten sided 2d geometric shape.](../.gitbook/assets/nodl-icon.svg) | ![Pink ten sided 2d geometric shape.](../.gitbook/assets/noda-icon.svg) | ![Black ten sided 2d geometric shape.](../.gitbook/assets/nodn-icon.svg)
+PDF Transparent Background | [Blue ten sided 2d geometric shape.](../.gitbook/assets/nodl-icon.pdf) | [Pink ten sided 2d geometric shape.](../.gitbook/assets/noda-icon.pdf) | [Black ten sided 2d geometric shape.](../.gitbook/assets/nodn-icon.pdf)
 
 ## Visuals & Infographics
 

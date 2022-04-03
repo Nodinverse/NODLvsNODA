@@ -34,5 +34,5 @@
 ## Appendix
 
 * [Summarizing $NODL and $NODA Tokens](appendix/summarizing-usdnodl-and-usdnoda-tokens.md)
-* [Official Links](appendix/official-links/README.md)
-  * [Nodl Index](appendix/official-links/nodl-index.md)
+* [Official Links](appendix/official-links.md)
+* [Brand Assets](appendix/brand-assets.md)

@@ -11,12 +11,29 @@ description: Brand Assets for $NODL, $NODA, and The Microverse 🎨
 ## Logos
 
 ## Icons
-Width / File Type | $NODL | $NODA | NODN
---- | --- | --- | ---
-1200 x 1200px PNG Transparent Background | <img src="../.gitbook/assets/nodl-icon.png" alt="Blue ten sided 2d geometric shape." height="200" width="200"> | <img src="../.gitbook/assets/noda-icon.png" alt="Pink ten sided 2d geometric shape." height="200" width="200"> | <img src="../.gitbook/assets/nodn-icon.png" alt="Black ten sided 2d geometric shape." height="200" width="200">
-1200 x 1200px JPG White Background | <img src="../.gitbook/assets/nodl-icon.jpg" alt="Blue ten sided 2d geometric shape." height="200" width="200"> | <img src="../.gitbook/assets/noda-icon.jpg" alt="Pink ten sided 2d geometric shape." height="200" width="200"> | <img src="../.gitbook/assets/nodn-icon.jpg" alt="Black ten sided 2d geometric shape." height="200" width="200">
-SVG Transparent Background | <img src="../.gitbook/assets/nodl-icon.svg" alt="Blue ten sided 2d geometric shape." height="200" width="200"> | <img src="../.gitbook/assets/noda-icon.svg" alt="Pink ten sided 2d geometric shape." height="200" width="200"> | <img src="../.gitbook/assets/nodn-icon.svg" alt="Black ten sided 2d geometric shape." height="200" width="200">
-PDF Transparent Background | [Blue ten sided 2d geometric shape.](../.gitbook/assets/nodl-icon.pdf) | [Pink ten sided 2d geometric shape.](../.gitbook/assets/noda-icon.pdf) | [Black ten sided 2d geometric shape.](../.gitbook/assets/nodn-icon.pdf)
+{% tabs %} 
+{% tab title="$NODL" %}
+
+PNG | JPG | SVG
+--- | --- | ---
+![Blue ten sided 2d geometric shape.](../.gitbook/assets/nodl-icon.png) | ![Blue ten sided 2d geometric shape.](../.gitbook/assets/nodl-icon.jpg) | ![Blue ten sided 2d geometric shape.](../.gitbook/assets/nodl-icon.svg)
+
+{% endtab %}
+{% tab title="$NODA" %}
+
+PNG | JPG | SVG
+--- | --- | ---
+![Pink ten sided 2d geometric shape.](../.gitbook/assets/noda-icon.png) | ![Pink ten sided 2d geometric shape.](../.gitbook/assets/noda-icon.jpg) | ![Pink ten sided 2d geometric shape.](../.gitbook/assets/noda-icon.svg)
+
+{% endtab %}
+{% tab title="$NODA" %}
+
+PNG | JPG | SVG
+--- | --- | ---
+![Black ten sided 2d geometric shape.](../.gitbook/assets/nodn-icon.png) | ![Black ten sided 2d geometric shape.](../.gitbook/assets/nodn-icon.jpg) | ![Black ten sided 2d geometric shape.](../.gitbook/assets/nodn-icon.svg)
+
+{% endtab %}
+{% endtabs %}
 
 ## Visuals & Infographics
 

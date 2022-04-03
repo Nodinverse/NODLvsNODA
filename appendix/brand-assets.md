@@ -14,21 +14,31 @@ description: Brand Assets for $NODL, $NODA, and The Microverse 🎨
 {% tabs %} 
 {% tab title="$NODL" %}
 
-<a href="" target="_blank"><img src="../.gitbook/assets/nodl-icon.png" alt="" width="180" height="180" /></a> <a href="" target="_blank"><img src="../.gitbook/assets/nodl-icon.jpg" alt="" width="180" height="180" /></a> <a href="" target="_blank"><img src="../.gitbook/assets/nodl-icon.svg" alt="" width="180" height="180" /></a>
+{% image-block %} 
+{% image %}
 
+![../.gitbook/assets/nodl-icon.png](../.gitbook/assets/nodl-icon.png "PNG 1200x1200px Transparent Background")
+
+{% endimage %} 
+{% image %}
+
+![../.gitbook/assets/nodl-icon.jpg](../.gitbook/assets/nodl-icon.jpg "JPG 1200x1200px White Background")
+
+{% endimage %} 
+{% image %}
+
+![../.gitbook/assets/nodl-icon.svg](../.gitbook/assets/nodl-icon.svg "SVG 1200x1200px Transparent Background")
+
+{% endimage %} 
 {% endtab %}
 {% tab title="$NODA" %}
 
-PNG<br>Transparent | JPG<br>White | SVG<br>Transparent 
-:---: | :---: | :---:
-<a href="" target="_blank"><img src="../.gitbook/assets/noda-icon.png" alt="" width="180" height="180" /></a> | <a href="" target="_blank"><img src="../.gitbook/assets/noda-icon.jpg" alt="" width="180" height="180" /></a> | <a href="" target="_blank"><img src="../.gitbook/assets/noda-icon.svg" alt="" width="180" height="180" /></a>
+<a href="" target="_blank"><img src="../.gitbook/assets/noda-icon.png" alt="" width="180" height="180" /></a> <a href="" target="_blank"><img src="../.gitbook/assets/noda-icon.jpg" alt="" width="180" height="180" /></a> <a href="" target="_blank"><img src="../.gitbook/assets/noda-icon.svg" alt="" width="180" height="180" /></a>
 
 {% endtab %}
 {% tab title="NODN" %}
 
-PNG<br>Transparent | JPG<br>White | SVG<br>Transparent 
-:---: | :---: | :---:
-<a href="" target="_blank"><img src="../.gitbook/assets/nodn-icon.png" alt="" width="180" height="180" /></a> | <a href="" target="_blank"><img src="../.gitbook/assets/nodn-icon.jpg" alt="" width="180" height="180" /></a> | <a href="" target="_blank"><img src="../.gitbook/assets/nodn-icon.svg" alt="" width="180" height="180" /></a>
+<a href="" target="_blank"><img src="../.gitbook/assets/nodn-icon.png" alt="" width="180" height="180" /></a> <a href="" target="_blank"><img src="../.gitbook/assets/nodn-icon.jpg" alt="" width="180" height="180" /></a> <a href="" target="_blank"><img src="../.gitbook/assets/nodn-icon.svg" alt="" width="180" height="180" /></a>
 
 {% endtab %}
 {% endtabs %}

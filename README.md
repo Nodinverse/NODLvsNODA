@@ -78,6 +78,6 @@ Learn the fundamentals of the entire protocol so we can save you time and stress
 [summarizing-usdnodl-and-usdnoda-tokens.md](appendix/summarizing-usdnodl-and-usdnoda-tokens.md)
 {% endcontent-ref %}
 
-{% content-ref url="appendix/official-links/" %}
-[official-links](appendix/official-links.md)
+{% content-ref url="appendix/official-links.md" %}
+[official-links.md](appendix/official-links.md)
 {% endcontent-ref %}

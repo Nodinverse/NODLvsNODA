@@ -1,5 +1,5 @@
 ---
-description: Introduction
+description: Welcome to the official Game Manual for The Microverse 🕹
 ---
 
 # The Microverse: $NODL vs $NODA \[a Game of Cyclical Probabilities]

@@ -14,9 +14,7 @@ description: Brand Assets for $NODL, $NODA, and The Microverse 🎨
 {% tabs %} 
 {% tab title="$NODL" %}
 
-PNG<br>Transparent | JPG<br>White | SVG<br>Transparent 
-:---: | :---: | :---:
-<a href="" target="_blank"><img src="../.gitbook/assets/nodl-icon.png" alt="" width="180" height="180" /></a> | <a href="" target="_blank"><img src="../.gitbook/assets/nodl-icon.jpg" alt="" width="180" height="180" /></a> | <a href="" target="_blank"><img src="../.gitbook/assets/nodl-icon.svg" alt="" width="180" height="180" /></a>
+<a href="" target="_blank"><img src="../.gitbook/assets/nodl-icon.png" alt="" width="180" height="180" /></a> <a href="" target="_blank"><img src="../.gitbook/assets/nodl-icon.jpg" alt="" width="180" height="180" /></a> <a href="" target="_blank"><img src="../.gitbook/assets/nodl-icon.svg" alt="" width="180" height="180" /></a>
 
 {% endtab %}
 {% tab title="$NODA" %}

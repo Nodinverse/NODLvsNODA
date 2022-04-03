@@ -13,9 +13,9 @@ description: Brand Assets for $NODL, $NODA, and The Microverse 🎨
 ## Icons
 Width / File Type | $NODL | $NODA | NODN
 --- | --- | --- | ---
-1200 x 1200px PNG Transparent Background | ![Blue ten sided 2d geometric shape.](../.gitbook/assets/nodl-icon.png) | ![Pink ten sided 2d geometric shape.](../.gitbook/assets/noda-icon.png) | ![Black ten sided 2d geometric shape.](../.gitbook/assets/nodn-icon.png)
-1200 x 1200px JPG White Background | ![Blue ten sided 2d geometric shape.](../.gitbook/assets/nodl-icon.jpg) | ![Pink ten sided 2d geometric shape.](../.gitbook/assets/noda-icon.jpg) | ![Black ten sided 2d geometric shape.](../.gitbook/assets/nodn-icon.jpg)
-SVG Transparent Background | ![Blue ten sided 2d geometric shape.](../.gitbook/assets/nodl-icon.svg) | ![Pink ten sided 2d geometric shape.](../.gitbook/assets/noda-icon.svg) | ![Black ten sided 2d geometric shape.](../.gitbook/assets/nodn-icon.svg)
+1200 x 1200px PNG Transparent Background | <img src="../.gitbook/assets/nodl-icon.png" alt="Blue ten sided 2d geometric shape." height="200" width="200"> | <img src="../.gitbook/assets/noda-icon.png" alt="Pink ten sided 2d geometric shape." height="200" width="200"> | <img src="../.gitbook/assets/nodn-icon.png" alt="Black ten sided 2d geometric shape." height="200" width="200">
+1200 x 1200px JPG White Background | <img src="../.gitbook/assets/nodl-icon.jpg" alt="Blue ten sided 2d geometric shape." height="200" width="200"> | <img src="../.gitbook/assets/noda-icon.jpg" alt="Pink ten sided 2d geometric shape." height="200" width="200"> | <img src="../.gitbook/assets/nodn-icon.jpg" alt="Black ten sided 2d geometric shape." height="200" width="200">
+SVG Transparent Background | <img src="../.gitbook/assets/nodl-icon.svg" alt="Blue ten sided 2d geometric shape." height="200" width="200"> | <img src="../.gitbook/assets/noda-icon.svg" alt="Pink ten sided 2d geometric shape." height="200" width="200"> | <img src="../.gitbook/assets/nodn-icon.svg" alt="Black ten sided 2d geometric shape." height="200" width="200">
 PDF Transparent Background | [Blue ten sided 2d geometric shape.](../.gitbook/assets/nodl-icon.pdf) | [Pink ten sided 2d geometric shape.](../.gitbook/assets/noda-icon.pdf) | [Black ten sided 2d geometric shape.](../.gitbook/assets/nodn-icon.pdf)
 
 ## Visuals & Infographics

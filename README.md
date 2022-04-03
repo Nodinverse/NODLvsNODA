@@ -79,5 +79,5 @@ Learn the fundamentals of the entire protocol so we can save you time and stress
 {% endcontent-ref %}
 
 {% content-ref url="appendix/official-links/" %}
-[official-links](appendix/official-links/)
+[official-links](appendix/official-links.md)
 {% endcontent-ref %}

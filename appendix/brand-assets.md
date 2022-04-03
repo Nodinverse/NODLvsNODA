@@ -14,23 +14,28 @@ description: Brand Assets for $NODL, $NODA, and The Microverse 🎨
 {% tabs %} 
 {% tab title="$NODL" %}
 
+![Blue ten sided 2d geometric shape.](../.gitbook/assets/nodl-icon.png)
+
 PNG | JPG | SVG
 --- | --- | ---
-![Blue ten sided 2d geometric shape.](../.gitbook/assets/nodl-icon.png) | ![Blue ten sided 2d geometric shape.](../.gitbook/assets/nodl-icon.jpg) | ![Blue ten sided 2d geometric shape.](../.gitbook/assets/nodl-icon.svg)
+[NODL Icon 1200x1200.JPG](../.gitbook/assets/nodl-icon.jpg) | [NODL Icon 1200x1200.PNG](../.gitbook/assets/nodl-icon.png) | [NODL Icon 1200x1200.SVG](../.gitbook/assets/nodl-icon.svg)
 
 {% endtab %}
 {% tab title="$NODA" %}
 
+![Pink ten sided 2d geometric shape.](../.gitbook/assets/noda-icon.png)
+
 PNG | JPG | SVG
 --- | --- | ---
-![Pink ten sided 2d geometric shape.](../.gitbook/assets/noda-icon.png) | ![Pink ten sided 2d geometric shape.](../.gitbook/assets/noda-icon.jpg) | ![Pink ten sided 2d geometric shape.](../.gitbook/assets/noda-icon.svg)
+[NODA Icon 1200x1200.JPG](../.gitbook/assets/noda-icon.jpg) | [NODA Icon 1200x1200.PNG](../.gitbook/assets/noda-icon.png) | [NODA Icon 1200x1200.SVG](../.gitbook/assets/noda-icon.svg)
 
 {% endtab %}
 {% tab title="$NODA" %}
+![Black ten sided 2d geometric shape.](../.gitbook/assets/nodn-icon.png)
 
 PNG | JPG | SVG
 --- | --- | ---
-![Black ten sided 2d geometric shape.](../.gitbook/assets/nodn-icon.png) | ![Black ten sided 2d geometric shape.](../.gitbook/assets/nodn-icon.jpg) | ![Black ten sided 2d geometric shape.](../.gitbook/assets/nodn-icon.svg)
+[NODN Icon 1200x1200.JPG](../.gitbook/assets/nodn-icon.jpg) | [NODN Icon 1200x1200.PNG](../.gitbook/assets/nodn-icon.png) | [NODN Icon 1200x1200.SVG](../.gitbook/assets/nodn-icon.svg)
 
 {% endtab %}
 {% endtabs %}

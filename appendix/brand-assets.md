@@ -22,7 +22,7 @@ All _Logos_ are 1200px wide. **PNG** & **SVG** have a transparent background, **
 {% endtab %}
 {% tab title="$NODA" %}
 
-![Pink NODL Wordmark and ten sided 2d geometric shape PNG](../.gitbook/assets/noda-wordmark.png "Download Noda Wordmark") ![Pink NODL Wordmark and ten sided 2d geometric shape JPG](../.gitbook/assets/noda-wordmark.jpg "Download Noda Wordmark")
+![Pink NODA Wordmark and ten sided 2d geometric shape PNG](../.gitbook/assets/noda-wordmark.png "Download Noda Wordmark") ![Pink NODA Wordmark and ten sided 2d geometric shape JPG](../.gitbook/assets/noda-wordmark.jpg "Download Noda Wordmark")
 
 {% endtab %}
 {% endtabs %}
@@ -34,21 +34,21 @@ All _Icons_ are 1200x1200px. **PNG** & **SVG** have a transparent background, **
 {% tabs %} 
 {% tab title="$NODL" %}
 
-![Blue NODL Logo ten sided 2d geometric shape PNG](../.gitbook/assets/nodl-icon.png "Download icon") ![Blue NODL Logo ten sided 2d geometric shape JPG](../.gitbook/assets/nodl-icon.jpg "Download icon") ![Blue NODL Logo ten sided 2d geometric shape SVG](../.gitbook/assets/nodl-icon.svg "Download icon")
+![Blue NODL ten sided 2d geometric shape PNG](../.gitbook/assets/nodl-icon.png "Download icon") ![Blue NODL ten sided 2d geometric shape JPG](../.gitbook/assets/nodl-icon.jpg "Download icon") ![Blue NODL ten sided 2d geometric shape SVG](../.gitbook/assets/nodl-icon.svg "Download icon")
 
 ![Blue NODL joystick PNG](../.gitbook/assets/nodl-icon-joystick.png "Download icon") ![Blue NODL Joystick JPG](../.gitbook/assets/nodl-icon-joystick.jpg "Download icon") ![Blue NODL Joystick SVG](../.gitbook/assets/nodl-icon-joystick.svg "Download icon")
 
 {% endtab %}
 {% tab title="$NODA" %}
 
-![Pink NODL Logo ten sided 2d geometric shape PNG](../.gitbook/assets/noda-icon.png "Download icon") ![Pink NODL Logo ten sided 2d geometric shape JPG](../.gitbook/assets/noda-icon.jpg "Download icon") ![Pink NODL Logo ten sided 2d geometric shape SVG](../.gitbook/assets/noda-icon.svg "Download icon")
+![Pink NODA ten sided 2d geometric shape PNG](../.gitbook/assets/noda-icon.png "Download icon") ![Pink NODA ten sided 2d geometric shape JPG](../.gitbook/assets/noda-icon.jpg "Download icon") ![Pink NODA ten sided 2d geometric shape SVG](../.gitbook/assets/noda-icon.svg "Download icon")
 
 ![Pink NODA Joystick PNG](../.gitbook/assets/noda-icon-joystick.png "Download icon") ![Pink NODA Joystick JPG](../.gitbook/assets/noda-icon-joystick.jpg "Download icon") ![Pink NODA Joystick SVG](../.gitbook/assets/noda-icon-joystick.svg "Download icon")
 
 {% endtab %}
 {% tab title="NODN" %}
 
-![Black NODL Logo ten sided 2d geometric shape PNG](../.gitbook/assets/nodn-icon.png "Download icon") ![Black NODL Logo ten sided 2d geometric shape JPG](../.gitbook/assets/nodn-icon.jpg "Download icon") ![Black NODL Logo ten sided 2d geometric shape SVG](../.gitbook/assets/nodn-icon.svg "Download icon")
+![Black NODN ten sided 2d geometric shape PNG](../.gitbook/assets/nodn-icon.png "Download icon") ![Black NODN ten sided 2d geometric shape JPG](../.gitbook/assets/nodn-icon.jpg "Download icon") ![Black NODN ten sided 2d geometric shape SVG](../.gitbook/assets/nodn-icon.svg "Download icon")
 
 ![Black NODN Joystick PNG](../.gitbook/assets/nodn-icon-joystick.png "Download icon") ![Black NODN Joystick JPG](../.gitbook/assets/nodn-icon-joystick.jpg "Download icon") ![Black NODN Joystick VG](../.gitbook/assets/nodn-icon-joystick.svg "Download icon")
 

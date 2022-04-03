@@ -17,12 +17,12 @@ All _Logos_ are 1200px wide. **PNG** & **SVG** have a transparent background, **
 {% tabs %} 
 {% tab title="$NODL" %}
 
-![Blue NODL Wordmark and ten sided 2d geometric shape PNG](../.gitbook/assets/nodl-wordmark.png "Download icon") ![Blue NODL Wordmark and ten sided 2d geometric shape JPG](../.gitbook/assets/nodl-wordmark.jpg "Download NODL Wordmark") ![Blue NODL Wordmark and ten sided 2d geometric shape SVG](../.gitbook/assets/nodl-wordmark.svg "Download NODL Wordmark")
+![Blue NODL Wordmark and ten sided 2d geometric shape PNG](../.gitbook/assets/nodl-wordmark.png "Download icon") ![Blue NODL Wordmark and ten sided 2d geometric shape JPG](../.gitbook/assets/nodl-wordmark.jpg "Download NODL Wordmark")
 
 {% endtab %}
 {% tab title="$NODA" %}
 
-![Pink NODL Wordmark and ten sided 2d geometric shape PNG](../.gitbook/assets/noda-wordmark.png "Download Noda Wordmark") ![Pink NODL Wordmark and ten sided 2d geometric shape JPG](../.gitbook/assets/noda-wordmark.jpg "Download Noda Wordmark") ![Pink NODL Wordmark and ten sided 2d geometric shape SVG](../.gitbook/assets/noda-wordmark.svg "Download Noda Wordmark")
+![Pink NODL Wordmark and ten sided 2d geometric shape PNG](../.gitbook/assets/noda-wordmark.png "Download Noda Wordmark") ![Pink NODL Wordmark and ten sided 2d geometric shape JPG](../.gitbook/assets/noda-wordmark.jpg "Download Noda Wordmark")
 
 {% endtab %}
 {% endtabs %}

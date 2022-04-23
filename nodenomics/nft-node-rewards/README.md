@@ -36,7 +36,7 @@ _**Every aspect of this protocol is variable and likely to change. Change is the
 
 ****
 
-**The current daily rate is: 1.25%**
+**The current daily rate is: 1%**
 
 ****
 

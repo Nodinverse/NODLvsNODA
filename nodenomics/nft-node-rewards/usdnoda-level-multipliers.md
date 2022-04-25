@@ -47,16 +47,16 @@ Example: **You mint a Level 1 Node for 8000 $NODA and compound it to 34,000 $NOD
     **-> Claims: 7**
 4.
 
-    55,000 $NODA = 1.02x Multiplier (Times the Daily Rate -> 1.02\*1.25%)
+    55,000 $NODA = 1.05x Multiplier (Times the Daily Rate -> 1.05\*1.25%)
 
     **-> Claims: 7**
 5.
 
-    89,000 $NODA = 1.08x Multiplier (Times the Daily Rate -> 1.08\*1.25%)
+    89,000 $NODA = 1.12x Multiplier (Times the Daily Rate -> 1.12\*1.25%)
 
     **-> Claims: 7**
 6.
 
-    377,000 $NODA = 1.13x Multiplier (Times the Daily Rate -> 1.13\*1.25%)
+    377,000 $NODA = 1.17x Multiplier (Times the Daily Rate -> 1.17\*1.25%)
 
-    **-> Claims: 6**
+    **-> Claims: 7**

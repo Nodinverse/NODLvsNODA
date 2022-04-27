@@ -44,32 +44,32 @@ Dive and consider all the possible strategies of our protocol:
 
 Learn the fundamentals of the entire protocol so we can save you time and stress while benefiting as a noder and holder exposed to DeFi Yields:
 
-{% content-ref url="tokenomics/usdnodl-overview.md" %}
-[usdnodl-overview.md](tokenomics/usdnodl-overview.md)
+{% content-ref url="nodenomics/usdnodl-overview.md" %}
+[usdnodl-overview.md](nodenomics/usdnodl-overview.md)
 {% endcontent-ref %}
 
-{% content-ref url="tokenomics/usdnodl-fees-and-distributions.md" %}
-[usdnodl-fees-and-distributions.md](tokenomics/usdnodl-fees-and-distributions.md)
+{% content-ref url="nodenomics/usdnodl-fees-and-distributions.md" %}
+[usdnodl-fees-and-distributions.md](nodenomics/usdnodl-fees-and-distributions.md)
 {% endcontent-ref %}
 
-{% content-ref url="tokenomics/usdnoda-overview.md" %}
-[usdnoda-overview.md](tokenomics/usdnoda-overview.md)
+{% content-ref url="nodenomics/usdnoda-overview.md" %}
+[usdnoda-overview.md](nodenomics/usdnoda-overview.md)
 {% endcontent-ref %}
 
-{% content-ref url="tokenomics/usdnoda-node-fees-and-distributions.md" %}
-[usdnoda-node-fees-and-distributions.md](tokenomics/usdnoda-node-fees-and-distributions.md)
+{% content-ref url="nodenomics/usdnoda-node-fees-and-distributions.md" %}
+[usdnoda-node-fees-and-distributions.md](nodenomics/usdnoda-node-fees-and-distributions.md)
 {% endcontent-ref %}
 
-{% content-ref url="tokenomics/our-nft-nodes.md" %}
-[our-nft-nodes.md](tokenomics/our-nft-nodes.md)
+{% content-ref url="nodenomics/our-nft-nodes.md" %}
+[our-nft-nodes.md](nodenomics/our-nft-nodes.md)
 {% endcontent-ref %}
 
-{% content-ref url="tokenomics/nft-node-rewards/" %}
-[nft-node-rewards](tokenomics/nft-node-rewards/)
+{% content-ref url="nodenomics/nft-node-rewards/" %}
+[nft-node-rewards](nodenomics/nft-node-rewards/)
 {% endcontent-ref %}
 
-{% content-ref url="tokenomics/roadmap-milestones.md" %}
-[roadmap-milestones.md](tokenomics/roadmap-milestones.md)
+{% content-ref url="nodenomics/roadmap-milestones.md" %}
+[roadmap-milestones.md](nodenomics/roadmap-milestones.md)
 {% endcontent-ref %}
 
 ### Appendix

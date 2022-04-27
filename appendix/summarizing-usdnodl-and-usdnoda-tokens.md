@@ -1,7 +1,7 @@
 # Summarizing $NODL and $NODA Tokens
 
 {% hint style="info" %}
-**Good to know:** This protocol is multi-layered. Both tokens are of equal importance. $NODA is spent to create nodes and $NODA will be the rewards that are claimed. If you want additional reward multipliers you must put $NODL into your Node [as described here](../tokenomics/nft-node-rewards/usdnodl-level-multipliers.md).&#x20;
+**Good to know:** This protocol is multi-layered. Both tokens are of equal importance. $NODA is spent to create nodes and $NODA will be the rewards that are claimed. If you want additional reward multipliers you must put $NODL into your Node [as described here](../nodenomics/nft-node-rewards/usdnodl-level-multipliers.md).&#x20;
 {% endhint %}
 
 In the beginning market caps will vary between both tokens as game players optimize strategies unlocking our labyrinth of Nodenomics (we created this word :-). With two tokens, the supply and demand can be juxtaposed creating a discount effect for players who chase alpha. And for those that don't chase alpha and prefer to be 100% passive, it still provides more than one entry and exit strategy.

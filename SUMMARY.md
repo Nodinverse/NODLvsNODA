@@ -18,18 +18,18 @@
 
 ## Tokenomics
 
-* [$NODL Overview](tokenomics/usdnodl-overview.md)
-* [$NODL Fees and Distributions](tokenomics/usdnodl-fees-and-distributions.md)
-* [$NODA Overview](tokenomics/usdnoda-overview.md)
-* [$NODA Node Fees and Distributions](tokenomics/usdnoda-node-fees-and-distributions.md)
-* [Gem Basics (NFT Nodes)](tokenomics/our-nft-nodes.md)
-* [Gem Tiers, Rewards, and Formulas](tokenomics/nft-node-rewards/README.md)
-  * [$NODL Level Multipliers](tokenomics/nft-node-rewards/usdnodl-level-multipliers.md)
-  * [$NODA Level Multipliers](tokenomics/nft-node-rewards/usdnoda-level-multipliers.md)
-  * [Volume Pool Multipliers](tokenomics/nft-node-rewards/volume-pool-multipliers.md)
-  * [Depositing Additional $NODL/$NODA Coins into your Existing Node](tokenomics/nft-node-rewards/depositing-additional-usdnodl-usdnoda-coins-into-your-existing-node.md)
-* [Arbitrage NODA/NODL Trading Pair](tokenomics/arbitrage-noda-nodl-trading-pair.md)
-* [Roadmap Milestones](tokenomics/roadmap-milestones.md)
+* [$NODL Overview](nodenomics/usdnodl-overview.md)
+* [$NODL Fees and Distributions](nodenomics/usdnodl-fees-and-distributions.md)
+* [$NODA Overview](nodenomics/usdnoda-overview.md)
+* [$NODA Node Fees and Distributions](nodenomics/usdnoda-node-fees-and-distributions.md)
+* [Gem Basics (NFT Nodes)](nodenomics/our-nft-nodes.md)
+* [Gem Tiers, Rewards, and Formulas](nodenomics/nft-node-rewards/README.md)
+  * [$NODL Level Multipliers](nodenomics/nft-node-rewards/usdnodl-level-multipliers.md)
+  * [$NODA Level Multipliers](nodenomics/nft-node-rewards/usdnoda-level-multipliers.md)
+  * [Volume Pool Multipliers](nodenomics/nft-node-rewards/volume-pool-multipliers.md)
+  * [Depositing Additional $NODL/$NODA Coins into your Existing Node](nodenomics/nft-node-rewards/depositing-additional-usdnodl-usdnoda-coins-into-your-existing-node.md)
+* [Arbitrage NODA/NODL Trading Pair](nodenomics/arbitrage-noda-nodl-trading-pair.md)
+* [Roadmap Milestones](nodenomics/roadmap-milestones.md)
 
 ## Appendix
 

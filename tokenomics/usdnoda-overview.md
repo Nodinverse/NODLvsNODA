@@ -10,9 +10,9 @@
 
 **Max Swap (buy/sell order):** 500 Thousand (first 24 hours)
 
-Buy: Set Slippage to >=**2.111%**
+Buy: Set Slippage to >=0**%**
 
-Sell Set Slippage to >=**7.111%**&#x20;
+Sell Set Slippage to >=2.111**%**&#x20;
 
 
 

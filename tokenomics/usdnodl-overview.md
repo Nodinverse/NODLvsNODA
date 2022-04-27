@@ -4,7 +4,7 @@
 **Good to know:** $NODL represents the treasury and growth of The Microverse. Fixed supply will be 100 Billion Coins (100,000,000,000). This supply will decrease as burning regularly occurs. **$NODL is a tokenized representation of the treasury and growth of the protocol.**&#x20;
 {% endhint %}
 
-**Current Supply: 92 Billion (8% has been burned -> TXs in our** [**Discord**](../appendix/official-links/)**)**&#x20;
+**Current Supply: 92 Billion (8% has been burned -> TXs in our** [**Discord**](../appendix/official-links.md)**)**&#x20;
 
 **Max Wallet Size:** 7.5 Billion coins
 

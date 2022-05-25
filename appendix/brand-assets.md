@@ -72,7 +72,7 @@ For use as a static or animated (MP4) landscape visual to promote The Microverse
 
 ### NODN NFT Nodes
 ```
-V1.13 — Updated multipliers
+V1.14 — Updated multipliers and Claims
 ```
 
 [🔻 Click to download 2880p x 1620px JPG: nodn-nft-nodes.jpg](https://github.com/Nodinverse/NODLvsNODA/blob/f60e50864aca3de5caf312cdec9d84389cfc781d/.gitbook/assets/nodn-nft-nodes.jpg?raw=true "Click to download directly")
